@@ -2,6 +2,7 @@
 
 ## Notebooks
 
+- [Quickstart](titanic-quickstart.ipynb)
 - Analyze
 - EDA
 - [Biased Outliers EDA](titanic-eda01-biased-outliers.ipynb)
