@@ -1,2 +1,8 @@
-# ml-kaggle-titanic
-Kaggle Titanic Competition Notebooks 
+# Kaggle Titanic Competition Notebooks 
+
+## Notebooks
+
+- Analyze
+- EDA
+- [Logistic Regression](logistic-regression-series.ipynb)
+- XGBoost
