@@ -23,3 +23,5 @@
 - Support Vector Machines (SVM)
 - Ensemble Learning
 - Hyperparameter Optimization
+- Feature Engineering
+- Feature Importance
