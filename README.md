@@ -1,4 +1,4 @@
-# Kaggle Titanic Competition Notebooks 
+# Learn to Solve a Binary Classification Problem with the Kaggle Titanic Competition 
 
 ## Notebooks
 
