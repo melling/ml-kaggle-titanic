@@ -13,3 +13,13 @@
 - [Voting Classifier](titanic-votingclassifier.ipynb)
 - XGBoost + Optuna
 - Stacking Classifier
+
+## Topics
+
+- Logistic Regression
+- LDA/QDA
+- Decision Trees
+- Random Forests
+- Support Vector Machines (SVM)
+- Ensemble Learning
+- Hyperparameter Optimization
