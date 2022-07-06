@@ -7,6 +7,7 @@
 - EDA
 - [Biased Outliers EDA](titanic-eda01-biased-outliers.ipynb)
 - [Logistic Regression](logistic-regression-series.ipynb)
+- [Decision Tree](titanic-decision-tree.ipynb)
 - GridSearch
 - Naive Bayes
 - XGBoost
