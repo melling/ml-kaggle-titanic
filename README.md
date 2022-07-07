@@ -13,6 +13,7 @@
 - XGBoost
 - [Voting Classifier](titanic-votingclassifier.ipynb)
 - XGBoost + Optuna
+- [XGBoost+LightGBM+Catboost Blend](titanic-xgb-lgbm-cat-blend.ipynb)
 - Stacking Classifier
 
 ## Topics
