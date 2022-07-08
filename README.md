@@ -10,9 +10,10 @@
 - [Decision Tree](titanic-decision-tree.ipynb)
 - GridSearch
 - Naive Bayes
-- XGBoost
+- [Support Vector Machines (SVM)](titanic-svm.ipynb)
+- [XGBoost](titanic-xgboost.ipynb)
 - [Voting Classifier](titanic-votingclassifier.ipynb)
-- XGBoost + Optuna
+- [XGBoost + Optuna](titanic-xgboost-optuna.ipynb)
 - [XGBoost+LightGBM+Catboost Blend](titanic-xgb-lgbm-cat-blend.ipynb)
 - Stacking Classifier
 
