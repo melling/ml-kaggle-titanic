@@ -28,3 +28,5 @@
 - Hyperparameter Optimization
 - Feature Engineering
 - Feature Importance
+- Pseudo Labling
+  - https://www.kaggle.com/code/cdeotte/pseudo-labeling-qda-0-969
